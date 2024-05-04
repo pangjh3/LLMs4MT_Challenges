@@ -1,7 +1,7 @@
 
 
 <div align="center">
-    <img width="50%" alt="ParroT" src="./figs/startfig4.jpg">
+    <img width="50%" alt="SIXC" src="./figs/startfig4.jpg">
     <h2>
     Salute the Classic: Revisiting Challenges of Machine Translation in the Age of Large Language Models <br><br>
      <a href="https://arxiv.org/abs/2401.08350"> <img alt="paper link" src="https://img.shields.io/badge/Paper-arXiv-red"> </a>
